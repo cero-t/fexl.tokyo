@@ -45,7 +45,7 @@ alwaysopen = false
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
-|大会|2019/2/16(土)|福岡|[Evo Japan 2019 サイドトーナメント](https://fexl.connpass.com/event/116790/)|[challonge](https://challonge.com/fexl_evoj2019)|[Twitch](https://www.twitch.tv/videos/381421105)|
+|2019/2/16(土)|福岡|[Evo Japan 2019 サイドトーナメント](https://fexl.connpass.com/event/116790/)|[challonge](https://challonge.com/fexl_evoj2019)|[Twitch](https://www.twitch.tv/videos/381421105)|
 |2019/2/9(土)|東京（品川）|[FEXL Tokyo Grand Prix (STRONG STYLE JAPAN コミュニティイベント)](https://fexl.connpass.com/event/114752/)|[challonge](https://challonge.com/fexltokyogp1)|-|
 |2018/10/11(土)|アメリカ（ニュージャージー）|[East Coast Throwdown 2018 FIGHTING EX LAYER](https://smash.gg/tournament/east-coast-throwdown-2018/events/fighting-ex-layer/overview)|[smash.gg](https://smash.gg/tournament/east-coast-throwdown-2018/events/fighting-ex-layer/brackets/389729)|[Twitch](https://www.twitch.tv/videos/325115446)|
 |2018/8/11(土)|東京（京急蒲田）|[TOP8 FIGHTING EX LAYER 1on1トーナメント](http://shinobism.com/tokyo-offline-party-8-fighting-ex-layer)|[challonge](https://challonge.com/TOP8_FEXL_1on1)|-|
