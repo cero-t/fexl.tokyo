@@ -14,9 +14,8 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |日程|ページ|内容|
 |----|------|----
+|2010/02/19(火)|[フレーム表](/system/frame/)|Ver 1.1.4のダメージ変更およびコマンド投げのフレーム変更を反映|
 |2018/12/31(月)|[イベント情報](/events/)|2019年5月末までのイベントを掲載。STRONG STYLE JAPAN、Evo Japan、闘神祭、KVOxKSB 2019|
-|2018/12/23(日)|[シラセ/中上級コンボ](/characters/shirase/combo/)|重力補正の考慮について追記。画面端限定の刻みコンボに説明を追記し、バリエーションを追加。|
-|2018/12/23(日)|[シラセ/基本攻略](/characters/shirase/basic/)|連昇激が当たらない状況とキャラを整理して追記。|
 
 ## 今後のイベント
 
@@ -24,21 +23,20 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|内容|
 |----|----|----|
-|リリース|2019/2/18(月)|AC/PS4/Steam Ver 1.1.4アップデート（ゲーム調整、カラー追加、ミュージック追加）|
-|リリース|2019/2/18(月)|PS4 商品追加と価格変更|
-|リリース|2019/2/20(水)|Steam 商品追加と価格変更|
+|リリース|2019/3/23(土)|Ver 1.2.0のリリース日を公開予定|
 
 #### 大会 / 対戦会
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/2/19(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
-|大会|2019/2/21(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
-|大会|2019/2/24(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
+|大会|2019/02/21(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
+|大会|2019/02/24(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
 
 <!--
-|大会|2019/3/3(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|
-|対戦会|2019/3/3(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
+|大会|2019/03/03(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|
+|対戦会|2019/03/03(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
+|大会|2019/03/05(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
+|大会|2019/03/07(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
 -->
 
 ※さらに先のイベントや、過去のイベント情報については [イベント情報](/events/) を参照してください。
