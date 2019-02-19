@@ -7,7 +7,7 @@ aliases = ["/frame/"]
 
 #### フレーム表
 
-Version 1.0.7（はやて、プルム、ロッソ以外） / 1.1.2（はやて、プルム、ロッソ）時点のフレーム表  
+Version 1.1.4時点のフレーム表（一部データは1.1.3時点のまま）  
 https://docs.google.com/spreadsheets/d/1SlFUa8nokYUuP8VN3quTNTFrIIlIvUJ1bMutO0VtCiU/edit?usp=sharing
 
 #### 注意点
