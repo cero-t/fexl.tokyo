@@ -29,18 +29,19 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|対戦会|2019/03/17(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
 |大会|2019/03/19(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |大会|2019/03/21(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |大会|2019/03/23(土)|東京（国際展示場）|[闘神祭2018-19 1Day Match Carnival](https://www.toushinsai.com/)|
 |大会|2019/03/24(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
+|大会|2019/03/28(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
+|対戦会|2019/03/31(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
 
 <!--
 第1日曜日
 |大会|2019/04/07(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|
 
 第1、第3、第5日曜日
-|対戦会|2019/03/31(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
+|対戦会|2019/04/07(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/1066253301459509248)|
 
 第2、第4日曜日
 |大会|2019/04/14(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
@@ -52,7 +53,7 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |大会|2019/04/04(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
 
 第2～5木曜日
-|大会|2019/03/28(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
+|大会|2019/04/11(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 -->
 
 ※さらに先のイベントや、過去のイベント情報については [イベント情報](/events/) を参照してください。
