@@ -29,8 +29,6 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/03/19(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
-|大会|2019/03/19(火)|東京（高田馬場）|[ミカド ストリートファイターカーニバル(SFC) 第25戦](https://twitter.com/1tame9c/status/1106509231635587072)|
 |大会|2019/03/21(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |大会|2019/03/23(土)|東京（国際展示場）|[闘神祭2018-19 1Day Match Carnival](https://www.toushinsai.com/)|
 |大会|2019/03/24(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
