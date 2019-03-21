@@ -21,7 +21,6 @@ alwaysopen = false
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/03/19(火)|東京（高田馬場）|[ミカド ストリートファイターカーニバル(SFC) 第25戦](https://twitter.com/1tame9c/status/1106509231635587072)|
 |大会|2019/3/23(土)|東京|[闘神祭 2018-2019 1Day Match Carnival](https://www.toushinsai.com/)|
 |大会|2019/5/2(木)～5(日)|大阪|[KVO×TSB2019](https://twitter.com/KVOJAPAN/status/1078984198310875136)|
 
@@ -52,19 +51,10 @@ alwaysopen = false
 
 #### ゲームセンターでの大会
 
-※週ごとにある定期大会は掲載していません
+※週/月ごとにある定期大会は掲載していません
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
-|2019/1/20(日)|大阪（茨木）|[ゲームディーノ 『FIGHTING EX LAYER』シングル大会](http://blog.livedoor.jp/game_dino/archives/54716938.html)|-|-|
-|2019/1/14(月)|新潟|[ゲームセンターテクノポリス ファイティングEXレイヤースペシャル大会](https://twitter.com/GC_Tecnopolis/status/1084334036426711041)|-|-|
+|2019/03/19(火)|東京（高田馬場）|[ゲーセンミカド ストリートファイターカーニバル（SFC）13](https://twitter.com/1tame9c/status/1106509231635587072)|[Twitter](https://twitter.com/klein04dec/status/1108002835893870592)|[YouTube](https://www.youtube.com/watch?v=bPXC-vKEmqA)|
 |2019/1/12(土)|東京（新宿）|[クラブセガ新宿西口 シングル大会](https://twitter.com/18goSFEX2plus/status/1082175967022346241)|[Twitter](https://twitter.com/BA_shinjuku/status/1084782529775718403)|[YouTube](https://www.youtube.com/watch?v=88Jk9hGw1Ew&feature=youtu.be&a=)|
-|2019/1/3(木)|東京（中野）|[中野TRF 年明けSPレベル分け交流２on２大会](http://trftrf.com/event.html#0103)|-|-|
-|2018/12/30(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1078508328202825728)|[Twitter](https://twitter.com/18goSFEX2plus/status/1079323340022530048)|-|
-|2018/12/15(土)|福岡（七隈）|[G-stage七隈 ファイティングEXレイヤー大会](https://twitter.com/Gstage_Nanakuma/status/1065526587485868032)|[Twitter](https://twitter.com/Gstage_Nanakuma/status/1073834139479027712)|-|
-|2018/12/09(日)|宮城（仙台）|[プレイランドエフワンR ファイティングEXレイヤー大会](https://twitter.com/PLAYLANDF1R/status/1070610099398295552)|-|-|
-|2018/12/06(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|-|-|
-|2018/12/04(火)|東京（高田馬場）|[ゲーセンミカド ストリートファイターカーニバル（SFC）12](http://sp.ch.nicovideo.jp/mikadogame/blomaga/ar1699549) ※イベントの1種目|[Twitter](https://twitter.com/18goSFEX2plus/status/1069943609456095232)|[YouTube](https://www.youtube.com/watch?v=Q9mmirvJM1Y)|
-|2018/12/02(日)|大阪（茨木）|[ゲームディーノ『FIGHTING EX LAYER』稼働記念大会開催！](http://blog.livedoor.jp/game_dino/archives/54472011.html)|-|-|
-|2018/12/02(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/1066253301459509248)|-|-|
-|2018/11/29(木)|東京（中野）|[中野TRF 負け上がりトーナメント](http://trftrf.com/event.html#1129)|-|-|
+|2018/12/04(火)|東京（高田馬場）|[ゲーセンミカド ストリートファイターカーニバル（SFC）12](http://sp.ch.nicovideo.jp/mikadogame/blomaga/ar1699549)|[Twitter](https://twitter.com/18goSFEX2plus/status/1069943609456095232)|[YouTube](https://www.youtube.com/watch?v=Q9mmirvJM1Y)|
