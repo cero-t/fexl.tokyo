@@ -11,8 +11,7 @@ alwaysopen = false
 
 |種別|日程|内容|
 |----|----|----|
-|リリース|2019/3/23(土)|Ver 1.2.0のリリース日を公開予定|
-|リリース|2019/3月末|Ver 1.2.0（シャロン参戦）|
+|リリース|2019/3/26(火)|Ver 1.2.0 シャロン、テリーボガード参戦|
 |リリース|2019/5月末まで|無償追加キャラクター1体、有償追加キャラクター1体追加|
 
 ## 大会 / 対戦会
@@ -21,7 +20,6 @@ alwaysopen = false
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/3/23(土)|東京|[闘神祭 2018-2019 1Day Match Carnival](https://www.toushinsai.com/)|
 |大会|2019/5/2(木)～5(日)|大阪|[KVO×TSB2019](https://twitter.com/KVOJAPAN/status/1078984198310875136)|
 
 #### 定期イベント
@@ -43,6 +41,7 @@ alwaysopen = false
 
 |日程|場所|内容|結果|動画|
 |----|----|----|----|----|
+|2019/3/23(土)|東京|[闘神祭 2018-2019 1Day Match Carnival](https://www.toushinsai.com/)|[Twitter](https://twitter.com/toushinsai_pr/status/1109354704322990080)|[Twitch(予選)](https://www.twitch.tv/videos/399713826?t=1h59m31s) [Twitch(Top4)](https://www.twitch.tv/videos/399652055?t=6h23m33s)|
 |2019/2/16(土)|福岡|[Evo Japan 2019 サイドトーナメント](https://fexl.connpass.com/event/116790/)|[challonge](https://challonge.com/fexl_evoj2019)|[Twitch](https://www.twitch.tv/videos/381421105)|
 |2019/2/9(土)|東京（品川）|[FEXL Tokyo Grand Prix (STRONG STYLE JAPAN コミュニティイベント)](https://fexl.connpass.com/event/114752/)|[challonge](https://challonge.com/fexltokyogp1)|-|
 |2018/10/11(土)|アメリカ（ニュージャージー）|[East Coast Throwdown 2018 FIGHTING EX LAYER](https://smash.gg/tournament/east-coast-throwdown-2018/events/fighting-ex-layer/overview)|[smash.gg](https://smash.gg/tournament/east-coast-throwdown-2018/events/fighting-ex-layer/brackets/389729)|[Twitch](https://www.twitch.tv/videos/325115446)|
