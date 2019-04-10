@@ -15,8 +15,9 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 |日程|ページ|内容|
 |----|------|----
 |2019/04/10(火)|[ほくと 中上級コンボ](/characters/hokuto/combo/)|新規追加|
-|2019/04/10(火)|[ほくと 基本攻略](/characters/hokuto/basic/)|Ver 1.1.4の調整内容を反映|
+|2019/04/10(火)|[ほくと 基本攻略](/characters/hokuto/basic/)|Ver 1.1.4の調整内容やVer 1.2.1のコマンド変更を反映|
 |2019/04/10(火)|[シラセ 中上級コンボ](/characters/shirase/combo/)|運びコンボを追加|
+|2019/04/10(火)|[シラセ 基本攻略](/characters/shirase/basic/)|Ver 1.1.4の調整内容やVer 1.2.1のコマンド変更を反映|
 |2019/02/19(火)|[フレーム表](/system/frame/)|Ver 1.1.4のダメージ変更およびコマンド投げのフレーム変更を反映|
 
 ## 今後のイベント
