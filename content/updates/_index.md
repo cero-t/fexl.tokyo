@@ -6,6 +6,55 @@ weight = 80
 
 ## FIGHTING EX LAYERのバージョンアップ履歴
 
+### Ver 1.2.2 (2019/04/11)
+
+https://www.facebook.com/ARIKAOfficial/posts/620234881773400
+
+#### 不具合修正
+- シャロンのエンディング文章を一部修正。
+    - 対象言語
+        - 英語
+        - フランス語
+        - イタリア語
+        - ドイツ語
+        - スペイン語
+        - ロシア語
+        - アラビア語
+        - ブラジルポルトガル語
+
+修正前のテキスト
+```
+Sharon had taken back her time with her lover.
+During the mission, she had learned that
+her real name was "Seren".
+However, there was need for that name anymore.
+Because next to Sharon stood her precious lover.
+```
+
+修正後のテキスト
+```
+Sharon took back her time with her lover.
+During the mission, she learned that
+her real name was "Seren".
+However, there was no need for that name anymore
+because her precious lover stood next to her.
+```
+
+- 大陸間鉄道ステージの地面が上昇してしまう不具合を修正。
+
+#### ゲーム性調整
+- シャロン
+    - クラッシュキック（6+強K）の全体フレームを長くしました。
+- テリー
+    - 立強Pの全体フレームを長くしました。
+
+### Ver 1.2.1 (2019/03/27)
+
+https://www.facebook.com/ARIKAOfficial/posts/612926395837582
+
+#### 不具合修正
+- 英語版のエキスパートモード＞テリー・ボガードの16番目の問題の技名を正しい表記に修正しました。
+
 ### Ver 1.2.0 (2019/03/26)
 
 https://www.facebook.com/ARIKAOfficial/posts/612374252559463
