@@ -14,11 +14,11 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |日程|ページ|内容|
 |----|------|----
-|2019/04/10(火)|[ほくと 中上級コンボ](/characters/hokuto/combo/)|新規追加|
+|2019/04/14(日)|[フレーム表](/system/frame/)|Ver 1.2.2の変更を反映。シャロン、テリーを追加|
+|2019/04/13(土)|[ほくと 中上級コンボ](/characters/hokuto/combo/)|流水からの画面端コンボを追加|
 |2019/04/10(火)|[ほくと 基本攻略](/characters/hokuto/basic/)|Ver 1.1.4の調整内容やVer 1.2.1のコマンド変更を反映|
 |2019/04/10(火)|[シラセ 中上級コンボ](/characters/shirase/combo/)|運びコンボを追加|
 |2019/04/10(火)|[シラセ 基本攻略](/characters/shirase/basic/)|Ver 1.1.4の調整内容やVer 1.2.1のコマンド変更を反映|
-|2019/02/19(火)|[フレーム表](/system/frame/)|Ver 1.1.4のダメージ変更およびコマンド投げのフレーム変更を反映|
 
 ## 今後のイベント
 
@@ -32,7 +32,6 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |種別|日程|場所|内容|
 |----|----|----|----|
-|大会|2019/04/11(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
 |大会|2019/04/14(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
 |大会|2019/04/16(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
 |大会|2019/04/18(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
