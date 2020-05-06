@@ -1,0 +1,60 @@
+baseURL = "https://fexl.tokyo"
+
+languageCode = "en-US"
+DefaultContentLanguage = "en"
+title = "FIGHTING EX LAYER Guide"
+theme = "docdock"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+googleAnalytics = "UA-130663044-1"
+
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+# 
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+
+
+[params]
+editURL = "https://github.com/cero-t/fexl.tokyo/tree/master/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+#themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
+
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = true # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+url = "https://github.com/cero-t/fexl.tokyo"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-twitch'></i> <label>Twitch</label>"
+url = "https://www.twitch.tv/fexltokyo"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-youtube-play'></i> <label>Youtube</label>"
+url = "https://www.youtube.com/channel/UCLvY34z9sH38CqOVuUvsD2g/"
+weight = 30
