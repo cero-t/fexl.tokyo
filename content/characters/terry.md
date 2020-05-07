@@ -1,7 +1,7 @@
 +++
 title = "テリー・ボガード"
 description = "FEXLのテリー・ボガードに関する攻略を解説します -- ファイティングEXレイヤー攻略 (FIGHTING EX LAYER GUIDE)"
-weight = 9
+weight = 17
 +++
 
 ※このページの内容は、バージョン1.3.1時点の調整に基づいています。
