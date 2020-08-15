@@ -25,7 +25,8 @@ googleAnalytics = "UA-130663044-1"
 # weight = 2
 # languageName = "Français"
 
-
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 editURL = "https://github.com/cero-t/fexl.tokyo/tree/master/content/"
