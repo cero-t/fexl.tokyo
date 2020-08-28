@@ -14,30 +14,10 @@ description = "ファイティングEXレイヤー (FIGHTING EX LAYER) の攻略
 
 |日程|ページ|内容|
 |----|----|----|
+|2020/08/29(土)|[フレーム表](/system/frame/)|Version 1.3.3のダメージ調整を反映|
 |2020/08/15(土)|[エリア 6チェーン限定コンボ](/characters/area/combo/)|新規追加|
 |2020/08/15(土)|[エリア 基本攻略](/characters/area/basic/)|コンボ解説を修正|
 |2020/05/04(月)|[キャラ別攻略 テリー・ボガード](/characters/terry/)|テリー・ボガードの攻略を追加|
-|2019/07/18(木)|[フレーム表](/system/frame/)|エリアを追加。シラセ、紗波音、ほくとの流水の変更を反映|
-
-<!--
-第1日曜日
-|大会|2019/06/02?(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd『FIGHTING EX LAYERシングル大会』](https://twitter.com/public_bigone/status/★★★)|
-
-第1、第3、第5日曜日
-|対戦会|2019/05/20(日)|埼玉（南浦和）|[プレイスポットビッグワン2nd FIGHTING EX LAYERフリープレイ対戦会](https://twitter.com/public_bigone/status/★★★)|
-
-第2、第4日曜日
-|大会|2019/05/19(日)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Sun)|
-
-第1、第3、第5火曜日（終了？？）
-|大会|2019/05/07(火)|東京（中野）|[中野TRF 強氣（ゴウギ）ランダム交流大会](http://trftrf.com/event.html#Tues)|
-
-第1木曜日
-|大会|2019/06/06(木)|東京（中野）|[中野TRF シングル無差別級大会](http://trftrf.com/event.html#Thurs)|
-
-第2～5木曜日
-|大会|2019/05/16(木)|東京（中野）|[中野TRF レベル分け交流大会](http://trftrf.com/event.html#Thurs)|
--->
 
 ## このサイトでの表記について
 
